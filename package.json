@@ -25,6 +25,6 @@
     "vite": "^7.0.4"
   },
   "dependencies": {
-    "aloha-sdk": "^1.2.7"
+    "aloha-sdk": "^1.2.19"
   }
 }
