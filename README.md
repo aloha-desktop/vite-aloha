@@ -4,7 +4,7 @@ A Vite template for developing Aloha plugins with TypeScript support, optimized 
 
 ![Vite+Aloha](.github/assets/vite-aloha-64.png)
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/~/github.com/aloha-desktop/vite-aloha?file=src/index.esm.ts&startScript=build)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/aloha-desktop/vite-aloha?file=src/index.esm.ts&startScript=build)
 
 
 ## Overview
